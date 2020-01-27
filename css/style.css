@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+}
+
+body {
+  background-image: url(img/imgfondo.jpeg);
+}
+
+.container {
+  margin-top: 200px;
+}
+
+.profile {
+  width: 200px;
+  border: solid 5px white;
+}
+
+p {
+  font-family: "Patrick Hand", cursive;
+  font-size: 30px;
+  color: white;
+}
